@@ -9,3 +9,7 @@ Study Program : Informatics Engineering
 Name: Wildan Fadillah
 Student Number: 20230040049
 Study Program: Informatics Engineering
+
+Name : Enjeli
+Student Number : 20230040058
+Study Program : Informatics Engineering
