@@ -12,4 +12,4 @@ def calculator(score1, score2, operator):
     elif operator == '/':
         return score1 / score2
 
-print("the result is =", calculator(score1, score2, operator))
+print("the result is =", calculator(score1, score2, operator))  
