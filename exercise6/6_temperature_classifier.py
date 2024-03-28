@@ -4,11 +4,11 @@ def temperature_group(temperature):
     elif(temperature <= 0):
         return "the temperature is very cold"
     elif(temperature <= 10):
-       return "the temperature is cold"
+        return "the temperature is cold"
     elif(temperature <= 20):
         return "the temperature is moderate"
     elif(temperature <= 30):
-       return "the temperature is hot"
+        return "the temperature is hot"
     else:
         return "the temperature is very hot"
     
