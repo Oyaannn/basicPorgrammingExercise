@@ -1,5 +1,5 @@
 student_score = int(input("enter your score: "))
-
+ 
 if(student_score >= 90) and (student_score <= 100):
     print("Your grade is A")
 elif(student_score >= 80) and (student_score <= 89):
